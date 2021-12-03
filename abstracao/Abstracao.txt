@@ -1,0 +1,11 @@
+Abstração!!??
+
+
+O processo de remover certos detalhes de
+implementação para que o foco esteja nos
+detalhes mais importante.
+
+porque abstrair e importante??
+
+por que quando abstraio eu lido com uma estrutura um processo
+complexo,atraves de um codigo mais simples.
